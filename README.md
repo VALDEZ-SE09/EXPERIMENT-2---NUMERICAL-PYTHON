@@ -6,7 +6,7 @@
 
 > To be able to apply centering, scaling, and masking techniques in Python.
 
-## Problem 1: Normalization Problem
+## PROBLEM 1: Normalization Problem
 
 ### Expected Behavior:
 
@@ -67,7 +67,7 @@ Normalized Array (X_normalized):
 
 ```
 
-## Problem 2: Divisible by 3 Problem
+## PROBLEM 2: Divisible by 3 Problem
 
 ### Expected Behavior:
 

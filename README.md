@@ -1,7 +1,5 @@
 # EXPERIMENT-2---NUMERICAL-PYTHON
 
-# Experiment - 2 : NUMPY OPERATIONS (Normalization & Divisibility)
-
 ## Objective:
 
 > To learn the use of NumPy functions for creating, reshaping, normalizing, and filtering arrays.
